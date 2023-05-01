@@ -1,2 +1,2 @@
-# PreCourse-Henry
-Este es un repositorio de prueba con README
+Este proyecto es una prueba de crear repositorio, y clonarlo desde mi GitHub a la computadora
+Hola
